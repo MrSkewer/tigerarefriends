@@ -3,7 +3,7 @@
     "tigeriddle": "What is the largest species of tiger?",
     "options": ["Bengal Tiger", "Siberian Tiger", "Indochinese Tiger"],
     "answer": "Siberian Tiger",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Siberian_Tiger_Portrait.jpg/800px-Siberian_Tiger_Portrait.jpg"
+    "photo": "https://i.ibb.co/XDNjx5t/Siberian-Tiger.jpg"
   },
   {
     "tigeriddle": "Which tiger is known for its white fur?",
@@ -15,37 +15,37 @@
     "tigeriddle": "What is a tiger's primary diet?",
     "options": ["Grass", "Meat", "Fruit"],
     "answer": "Meat",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tiger_%28Panthera_tigris%29_eating.jpg/800px-Tiger_%28Panthera_tigris%29_eating.jpg"
+    "photo": "https://i.ibb.co/P6jQpF9/Meat.jpg"
   },
   {
     "tigeriddle": "How many stripes does a tiger have on average?",
     "options": ["50", "100", "200"],
     "answer": "100",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tiger_stripes.jpg/800px-Tiger_stripes.jpg"
+    "photo": "https://i.ibb.co/KGPkXtr/100.png"
   },
   {
     "tigeriddle": "What is the habitat of most tigers?",
     "options": ["Desert", "Rainforest", "Savannah"],
     "answer": "Rainforest",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tiger_Habitat.jpg/800px-Tiger_Habitat.jpg"
+    "photo": "https://i.ibb.co/p1NpjsX/Rainforest.jpg"
   },
   {
     "tigeriddle": "What is the scientific name for the tiger?",
     "options": ["Panthera leo", "Panthera tigris", "Felis catus"],
     "answer": "Panthera tigris",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tiger_in_rainforest.jpg/800px-Tiger_in_rainforest.jpg"
+    "photo": "https://i.ibb.co/y5B1bfb/Pantheratigris.jpg"
   },
   {
     "tigeriddle": "Which tiger subspecies is critically endangered?",
     "options": ["Bengal Tiger", "Sunda Tiger", "Siberian Tiger"],
     "answer": "Sunda Tiger",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sunda_Tiger_in_Borneo.jpg/800px-Sunda_Tiger_in_Borneo.jpg"
+    "photo": "https://i.ibb.co/qsLHp9h/Sunda-Tiger.jpg"
   },
   {
     "tigeriddle": "How fast can a tiger run?",
     "options": ["30 mph", "40 mph", "50 mph"],
     "answer": "40 mph",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tiger_running.jpg/800px-Tiger_running.jpg"
+    "photo": "https://i.ibb.co/nrML8gr/fast.png"
   },
   {
     "tigeriddle": "What do tigers use their stripes for?",
